@@ -1,0 +1,17 @@
+name: robot_vision_class
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8.8
+  - pandas
+  - numpy
+  - pip
+  - notebook
+  - matplotlib
+  - opencv
+  - torch
+  - torchvision
+  - scikit-learn
