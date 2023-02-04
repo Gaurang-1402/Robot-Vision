@@ -12,6 +12,3 @@ dependencies:
   - notebook
   - matplotlib
   - opencv
-  - torch
-  - torchvision
-  - scikit-learn
