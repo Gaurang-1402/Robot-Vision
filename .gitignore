@@ -22,7 +22,6 @@ devel_isolated/
 # Ignore Data files
 *.tar.gz
 *.feat
-*.txt
 *.data
 .idea/
 *.pth
